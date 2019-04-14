@@ -1,0 +1,64 @@
+{
+  "wallpapers": [
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2001.jpg",
+      "name": "Wall 01",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2001%20(01).jpg"
+    },
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2002.jpg",
+      "name": "Wall 02",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2002%20(02).jpg"
+  },
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2003.jpg",
+      "name": "Wall 03",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2003%20(03).jpg"
+  },
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2004.jpg",
+      "name": "Wall 04",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2004%20(04).jpg"
+},
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2005.jpg",
+      "name": "Wall 05",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2005%20(05).jpg"
+},
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2006.jpg",
+      "name": "Wall 06",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2006%20(06).jpg"
+},
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2007.jpg",
+      "name": "Wall 07",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2007%20(07).jpg"
+},
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2008.jpg",
+      "name": "Wall 08",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2008%20(08).jpg"
+},
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2009.jpg",
+      "name": "Wall 09",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2009%20(09).jpg"
+},
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2010.jpg",
+      "name": "Wall 10",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/JellyfishWalls/master/Wall%2010%20(10).jpg"
+}
+  ]
+}
